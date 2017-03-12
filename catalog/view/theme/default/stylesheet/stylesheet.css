@@ -5,6 +5,8 @@ body {
 	font-size: 12px;
 	line-height: 20px;
 	width: 100%;
+	
+background-color: #EBDAC2;
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #444;
@@ -79,7 +81,9 @@ div.required .control-label:before {
 }
 /* top */
 #top {
-	background-color:#E8E8F0;
+	background-color: black;
+	/*JAMAL HAS MADE A CHANGE HERE*/
+	/*background-color:#E8E8F0;
 	/*background-color: #EEEEEE;*/
 	border-bottom: 1px solid #e2e2e2;
 	padding: 4px 0px 3px 0;
@@ -92,6 +96,7 @@ div.required .control-label:before {
 #top #form-currency .currency-select,
 #top #form-language .language-select {
 	text-align: left;
+	color:black;
 }
 #top #form-currency .currency-select:hover,
 #top #form-language .language-select:hover {
@@ -102,15 +107,18 @@ div.required .control-label:before {
 	background-repeat: repeat-x;
 }
 #top .btn-link, #top-links li, #top-links a {
-	color: #888;
-	text-shadow: 0 1px 0 #FFF;
+	/*JAMAL HAS MADE A CHANGE HERE*/
+	/*color: #888;*/
+	/*text-shadow: 0 1px 0 #FFF;*/
+	color:white;
 	text-decoration: none;
 }
 #top .btn-link:hover, #top-links a:hover {
-	color: #444;
+	color: lightblue;
 }
 #top-links .dropdown-menu a {
 	text-shadow: none;
+
 }
 #top-links .dropdown-menu a:hover {
 	color: #FFF;
