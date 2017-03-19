@@ -9,6 +9,11 @@ body {
 	
 background-color: #EBDAC2;
 }
+header{
+	background-image: url(http://www.dmpall4you.com/wp-content/uploads/2015/04/13.jpg);
+  padding-top: 2%;
+	padding-bottom:1%;
+}
 h1, h2, h3, h4, h5, h6 {
 	color: #444;
 }
@@ -82,7 +87,7 @@ div.required .control-label:before {
 }
 /* top */
 #top {
-	background-color: black;
+	background-color:#CF6E8C;
 	/*JAMAL HAS MADE A CHANGE HERE*/
 	/*background-color:#E8E8F0;
 	/*background-color: #EEEEEE;*/
