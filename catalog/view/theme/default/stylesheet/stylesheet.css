@@ -10,7 +10,7 @@ body {
 background-color: #EBDAC2;
 }
 header{
-	background-image: url(http://www.dmpall4you.com/wp-content/uploads/2015/04/13.jpg);
+		background-image: url(banner.png);
   padding-top: 2%;
 	padding-bottom:1%;
 }
@@ -259,7 +259,8 @@ div.required .control-label:before {
 #menu .see-all:hover, #menu .see-all:focus {
 	text-decoration: none;
 	color: #ffffff;
-	background-color: #229ac8;
+	/*background-color: #229ac8;*/
+	background-color: green;
 	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
 	background-repeat: repeat-x;
 }
