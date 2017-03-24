@@ -4,13 +4,14 @@ body {
 	color: #666;
 	font-size: 12px;
 	line-height: 20px;
-	width: 100%;
-	background-image: url(http://wallpapercave.com/wp/OS6Fgxs.jpg);
+	background-image: url(http://i.imgur.com/e1sFiRz.jpg);
+	background-size:auto 100%;
 	
 background-color: #EBDAC2;
 }
 header{
 		background-image: url(banner.png);
+		background-size:auto auto;
   padding-top: 2%;
 	padding-bottom:1%;
 }
@@ -91,8 +92,8 @@ div.required .control-label:before {
 	/*JAMAL HAS MADE A CHANGE HERE*/
 	/*background-color:#E8E8F0;
 	/*background-color: #EEEEEE;*/
-	border-bottom: 1px solid #e2e2e2;
-	padding: 4px 0px 3px 0;
+	border-bottom: 2px solid #e2e2e2;
+	padding: 4px 0px 0px 0;
 	margin: 0 0 20px 0;
 	min-height: 40px;
 }
