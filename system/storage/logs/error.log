@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2017-04-04 16:12:48 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
 2017-04-04 16:13:21 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
 2017-04-04 16:13:37 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
@@ -10,3 +11,6 @@
 2017-04-04 19:58:32 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
 2017-04-04 20:00:18 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
 2017-04-05 16:25:16 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
+=======
+2017-04-04 20:18:24 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
+>>>>>>> ce3faf6c96646be8bd20adbc96e3fd42ab8c8644
