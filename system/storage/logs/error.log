@@ -14,3 +14,6 @@
 =======
 2017-04-04 20:18:24 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/OneOptics/catalog/view/theme/default/template/checkout/checkout.tpl! in C:\xampp\htdocs\OneOptics\system\storage\modification\system\library\template\php.php on line 23
 >>>>>>> ce3faf6c96646be8bd20adbc96e3fd42ab8c8644
+2017-04-06 21:18:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OneOptics\system\library\mail.php on line 158
+2017-04-08 17:42:14 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OneOptics\system\library\mail.php on line 158
+2017-04-08 18:10:52 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\OneOptics\system\library\mail.php on line 158
